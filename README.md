@@ -1,0 +1,2 @@
+# CineScope
+CineScope Project
